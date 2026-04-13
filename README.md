@@ -17,3 +17,12 @@ GRUFON is a research-oriented platform focused on the reporting, documentation, 
 Developed under the ERENZO Association  
 Website: https://www.grufon.org  
 Contact: contact@grufon.org
+
+## 📄 Official Publication
+
+https://doi.org/10.5281/zenodo.19560097
+
+## 📊 Data & Schema
+
+Data schema: https://github.com/Grufon/data-schema  
+Open data: https://github.com/Grufon/open-data
