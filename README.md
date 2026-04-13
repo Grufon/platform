@@ -26,3 +26,10 @@ https://doi.org/10.5281/zenodo.19560097
 
 Data schema: https://github.com/Grufon/data-schema  
 Open data: https://github.com/Grufon/open-data
+
+## Related European Context
+
+This work aligns with ongoing discussions on research infrastructure and stigma in emerging scientific fields such as UAP.
+
+See:
+Feedback on the European Strategy on Research and Technology Infrastructures (2025)
